@@ -1,0 +1,1 @@
+var window.access_token = '6a2a18f351e0ca61f82a61c54846dea17ba6d96f';
